@@ -1,5 +1,6 @@
 #Tv B Gone
 
+Use Arduino 1.0.6
 
 The TV-B-Gone® universal remote is designed to turn almost any TV on or off, focusing solely on the power function. It operates by emitting a pulsing, invisible infrared (IR) light. While IR light is constantly present around us, TV remote controls use unique IR pulse patterns to avoid confusion with ordinary IR light. Each TV manufacturer has its own specific IR pulse patterns for different functions.
 
